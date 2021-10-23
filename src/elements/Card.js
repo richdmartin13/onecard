@@ -1,4 +1,4 @@
-import './App.css';
+import '../elements.css';
 
 export default function Card() {
     return (
